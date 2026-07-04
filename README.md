@@ -25,6 +25,12 @@ A fully automated system that handles the entire video production pipeline from 
 *   Downloads matching stock footage from **Pexels** and auto-edits the video using **MoviePy**.
 *   Designs custom thumbnails and posts directly to YouTube using **OAuth 2.0**.
 
+### 🛍️ [Telegram E-commerce Bot](https://github.com/MithuMia7223/telegram-ecommerce-bot)
+A feature-rich Telegram shop bot that allows clients to browse items, manage a cart, and place orders directly from Telegram.
+*   Uses **SQLite** for local database storage and catalog management.
+*   Interactive keyboard interfaces for a smooth shopping experience.
+*   Easy-to-configure layout and settings via environment variables.
+
 ### 🤖 [Nexa AI Bot Project](https://github.com/MithuMia7223/Nexa-AI-bot)
 An advanced interactive helper system supporting multiple LLM API providers.
 *   Features user verification system, custom roles (User/Admin), and Streamlit-based control dashboard.
